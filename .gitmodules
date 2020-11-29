@@ -1,3 +1,6 @@
 [submodule "Step-04"]
 	path = Step-04
 	url = ../aws-cdk.git
+[submodule "Step-05"]
+	path = Step-05
+	url = C:\\Users\\IT\\Desktop\\December-2019\\Block Chain\\BootCamp\\AWS CDK\\Project\\Step-05
